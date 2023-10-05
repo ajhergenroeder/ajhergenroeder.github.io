@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vacuous Post 1
+title: Vacuous Post 2
 date: Oct 4 2023
 categories: []
 tags: []
@@ -10,4 +10,4 @@ published: true
 author: A.J. Hergenroeder
 ---
 
-Empty first post
+No real content
